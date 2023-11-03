@@ -1,1 +1,17 @@
 # AD-PSP-TiposHerencia
+
+## 3 - JOINED
+
+ - Se crean dos entidades, una padre y otra hija.
+ - Con la anotación @Inheritance se especifica la estrategia de herencia que vamos a usar.
+   
+![joined1](https://github.com/SebastianMillan/AD-PSP-TiposHerencia/assets/114216417/be8c8a41-c05d-4423-b12a-0c476fd9f342)
+![joined2](https://github.com/SebastianMillan/AD-PSP-TiposHerencia/assets/114216417/04ce8e26-1518-43e9-a6e3-6ab93ee37cc6)
+
+- Creamos los repositorios de ambas entidades.
+- Se introducen en el InitData valores de prueba para comprobar que se genera correctamente nuestras tablas
+
+![joined3](https://github.com/SebastianMillan/AD-PSP-TiposHerencia/assets/114216417/cacf409c-0d60-4bfd-814a-3dbcb04314b9)
+![joined4](https://github.com/SebastianMillan/AD-PSP-TiposHerencia/assets/114216417/ba56f7fb-bdf7-4608-a37f-fcc00bb04240)
+![joined5](https://github.com/SebastianMillan/AD-PSP-TiposHerencia/assets/114216417/1645ee01-12b9-4b51-9cdf-8a33cc54e368)
+![joined6](https://github.com/SebastianMillan/AD-PSP-TiposHerencia/assets/114216417/acd2e34d-7e8d-4ecd-8a25-24150cade302)
