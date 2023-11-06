@@ -1,0 +1,7 @@
+com\example\demo\tablePerClass\Repositorio\ClienteRepository.class
+com\example\demo\tablePerClass\clases\Cliente.class
+com\example\demo\tablePerClass\InitData.class
+com\example\demo\tablePerClass\Application.class
+com\example\demo\tablePerClass\Repositorio\ClienteVipRepository.class
+com\example\demo\tablePerClass\clases\Cliente$ClienteBuilder.class
+com\example\demo\tablePerClass\clases\ClienteVip.class
