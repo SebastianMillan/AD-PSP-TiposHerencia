@@ -15,3 +15,9 @@
 ![joined4](https://github.com/SebastianMillan/AD-PSP-TiposHerencia/assets/114216417/ba56f7fb-bdf7-4608-a37f-fcc00bb04240)
 ![joined5](https://github.com/SebastianMillan/AD-PSP-TiposHerencia/assets/114216417/1645ee01-12b9-4b51-9cdf-8a33cc54e368)
 ![joined6](https://github.com/SebastianMillan/AD-PSP-TiposHerencia/assets/114216417/acd2e34d-7e8d-4ecd-8a25-24150cade302)
+
+## 4 - TABLE PER CLAS 
+
+-Creamos las entidades, una padre y otra hija.
+-La clase padre debe estar anotada con @Inheritance(strategy = InheritanceType.TABLE_PER_CLASS) y la hija extender al padre.
+-Esta forma de herencia genera una tabla por cada clase.
