@@ -18,6 +18,6 @@
 
 ## 4 - TABLE PER CLAS 
 
--Creamos las entidades, una padre y otra hija.
--La clase padre debe estar anotada con @Inheritance(strategy = InheritanceType.TABLE_PER_CLASS) y la hija extender al padre.
--Esta forma de herencia genera una tabla por cada clase.
+- Creamos las entidades, una padre y otra hija.
+- La clase padre debe estar anotada con @Inheritance(strategy = InheritanceType.TABLE_PER_CLASS) y la hija extender al padre.
+- Esta forma de herencia genera una tabla por cada clase.
